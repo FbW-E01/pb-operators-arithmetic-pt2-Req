@@ -4,7 +4,7 @@
 console.log(`${6450 / 15} tickets were sold`);
 
 // Q2. Sylvia's income is 500 dollars per week. How much does Sylvia makes every year?
-console.log(500*52);
+console.log(500 * 52);
 
 // **Percentage**
 // Q3. Calculate the percentage of 17/30. Expected output: number%
@@ -16,10 +16,10 @@ console.log(`${number}$`);
 console.log(4.75 * 4);
 
 // Q5. Calculate the perimeter of a triangle. Assume the length of the sides are 5cm, 6cm, 7cm.
-console.log(5+6+7)
+console.log(5 + 6 + 7)
 
 // Q6. Calculate the area of a square. Each side is 5cm.
-console.log(5*5);
+console.log(5 * 5);
 
 //Q7. Calculate the area of a triangle. Assume the length of the sides are 5cm, 6cm, 7cm.
 // Heron's Formula
